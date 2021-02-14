@@ -18,6 +18,8 @@
 
 [future, Promise and async](https://www.youtube.com/watch?v=SZQ6-pf-5Us)
 
+**[Atomic Variables and Memory Models](https://www.youtube.com/watch?v=IE6EpkT7cJ4)**
+
 [Intro to atomic variable](https://www.youtube.com/watch?v=oE_D3IgBJi8)
 
 [CppCon 2017 : C++ atomics, from basic to advanced. What do they really do?](https://www.youtube.com/watch?v=ZQFzMfHIxng&t=0s)
