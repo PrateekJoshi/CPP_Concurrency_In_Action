@@ -36,6 +36,8 @@
 
 [The C++11 Memory Model and GCC](https://gcc.gnu.org/wiki/Atomic/GCCMM)
 
+[Fine-graoned synchronization & lock-free programming lecture slide](http://www.cs.cmu.edu/~418/lectures/18_lockfree.pdf)
+
 ## Others
 
 ### Functions that accept timeouts
