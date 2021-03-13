@@ -69,7 +69,6 @@ void parallel_for_each(Iterator first, Iterator last, Func f)
 	std::vector<std::future<void>> futures(num_threads-1);
 	std::vector<std::thread> threads(num_threads-1);
 	join_threads joiner(threads);
-
 	Iterator block_start = first;
 	for( unsigned long i = 0 ; i < ( num_threads-1) ; i++ )
 	{
