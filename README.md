@@ -38,7 +38,13 @@
 
 [Fine-graoned synchronization & lock-free programming lecture slide](http://www.cs.cmu.edu/~418/lectures/18_lockfree.pdf)
 
-## Others
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+
+[Initialize member variables](https://visualstudiomagazine.com/articles/2016/05/01/initialize-member-variables.aspx)
+
+[Thread local data](https://www.modernescpp.com/index.php/thread-local-data)
+
+[C++11 : How to Stop or Terminate a Thread](https://thispointer.com/c11-how-to-stop-or-terminate-a-thread/)
 
 ### Functions that accept timeouts
 
@@ -47,6 +53,10 @@
 ### The operations available on atomic types
 
 ![](resources/opr_on_atomic_types.png)
+
+## Brief comparison of concurrency libraries
+
+![](resources/concurrent_libs.png)
 
 ### Compiler Explorer
 
