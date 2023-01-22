@@ -28,6 +28,10 @@
 
 [C++ and Beyond 2012: Herb Sutter - atomic<> Weapons, 2 of 2](https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Herb-Sutter-atomic-Weapons-2-of-2)
 
+[C++ Memory Model](https://www.youtube.com/watch?v=KgzjxfYaScU)
+
+**[CopperSpice : Atomics](https://www.youtube.com/watch?v=JqN-pTWYCSc&list=PL9GxRn_rQx8OuX1DJcxFMvwJafXDuueoP&index=7)**
+
 ## Useful Articles
 
 [Understanding C++ Atomic Operations](https://sdjournal.org/understanding-c-atomic-operations/)
@@ -45,6 +49,11 @@
 [Thread local data](https://www.modernescpp.com/index.php/thread-local-data)
 
 [C++11 : How to Stop or Terminate a Thread](https://thispointer.com/c11-how-to-stop-or-terminate-a-thread/)
+
+[Memory Model Basic L: Memory orderings for multi thread programming in C++](https://levelup.gitconnected.com/memory-model-basic-d8b5f8fddd5f)
+
+[What do each memory_order mean?](https://stackoverflow.com/questions/12346487/what-do-each-memory-order-mean)
+
 
 ### Functions that accept timeouts
 
