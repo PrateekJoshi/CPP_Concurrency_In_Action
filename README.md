@@ -54,6 +54,7 @@
 
 [What do each memory_order mean?](https://stackoverflow.com/questions/12346487/what-do-each-memory-order-mean)
 
+[Lock-free Queues](https://enqueuezero.com/lock-free-queues.html)
 
 ### Functions that accept timeouts
 
